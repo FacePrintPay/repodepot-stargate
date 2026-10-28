@@ -414,3 +414,5 @@ echo "• Site:  https://${DOMAIN}/"
 echo "• RSS:   https://${DOMAIN}/feed.xml"
 echo "• Data:  https://${DOMAIN}/feed_database.json"
 echo "• Vercel: https://${DOMAIN}/vercel_projects.json"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=kre8tive_portfolio_build.sh
